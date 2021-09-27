@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey, nice to see you here! 👋
 
-YZZX模拟器作者
-
-Leibot作者
+- YZZX模拟器
+- Leibot
+- Rioka - a powerful chat room to come, still under development, but not now.🤣
 <!--
 **HomeArchbishop/HomeArchbishop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
