@@ -1,19 +1,16 @@
-### Hey, nice to see you here! 👋
+<h2 align="center">Hey, nice to see you here! 👋</h2>
 
-- YZZX模拟器
-- Leibot
-- **Rioka** - a powerful chat room to come, still under development, but not now.🤣
-<!--
-**HomeArchbishop/HomeArchbishop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### **ME**
 
-Here are some ideas to get you started:
+* Senior high school student from China
+* Love JavaScript
+* A dream as a software engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Hope you can get to know me from the following project.**
+
+🍑 **picable** - Beautiful Vue client for Pica Comic. No ads.
+
+😶 **jump-your-head** - Vue3 Virtual sports programs for LittleLights.
+
+🎲 **YZZX模拟器**, A native simple project.
+
