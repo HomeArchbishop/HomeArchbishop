@@ -3,7 +3,7 @@
 #### **ME**
 
 * Senior high school student from China
-* Love JavaScript
+* Loves JavaScript
 * A dream as a software engineer
 
 #### **Hope you can get to know me from the following project.**
@@ -12,5 +12,5 @@
 
 😶 **jump-your-head** - Vue3 Virtual sports programs for LittleLights.
 
-🎲 **YZZX模拟器**, A native simple project.
+🎲 **YZZX模拟器 (YZZX Simulator)**, A native simple project.
 
