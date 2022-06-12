@@ -8,9 +8,9 @@
 
 #### **Hope you can get to know me from the following project.**
 
-🍑 **picable** - Beautiful Vue client for Pica Comic. No ads.
+🍑 **[picable](https://github.com/HomeArchbishop/picable)** - Beautiful Vue client for Pica Comic. No ads.
 
-😶 **jump-your-head** - Vue3 Virtual sports programs for LittleLights.
+😶 **[jump-your-head](https://github.com/HomeArchbishop/jump-your-head)** - Vue3 Virtual sports programs for LittleLights.
 
-🎲 **YZZX模拟器 (YZZX Simulator)**, A native simple project.
+🎲 **[YZZX模拟器 (YZZX Simulator)](https://github.com/HomeArchbishop/YZZX)** - A native simple project.
 
