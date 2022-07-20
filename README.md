@@ -1,6 +1,11 @@
 <h2 align="center">Hey, nice to see you here! 👋</h2>
 
-#### **ME**
+
+<!--![HMACBSP's stats](https://github-readme-stats.vercel.app/api?username=homearchbishop&show_icons=true&theme=vue&hide_title=true)-->
+
+<img align="right" alt="HMACBSP's lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homearchbishop&hide_title=true&layout=compact&theme=vue" />
+
+#### ME
 
 * Senior high school student from China
 * Loves JavaScript
