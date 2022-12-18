@@ -9,7 +9,6 @@
 
 * Senior high school student from China
 * Loves JavaScript
-* A dream as a software engineer
 
 #### **Hope you can get to know me from the following project.**
 
