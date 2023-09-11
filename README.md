@@ -7,7 +7,8 @@
 
 #### ME
 
-* Senior high school student from China
+* ~~Senior high school student from China~~
+* College students from China - HUST
 * Loves JavaScript
 
 #### **Hope you can get to know me from the following project.**
