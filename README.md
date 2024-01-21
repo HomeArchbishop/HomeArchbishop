@@ -21,12 +21,4 @@
 
 🎲 **[YZZX模拟器 (YZZX Simulator)](https://github.com/HomeArchbishop/YZZX)** - A native simple project.
 
-#### Also contribute to...
-
-🤢 **[patina](https://github.com/itorr/patina)** - GIF-processer module.
-
-🐧 **[eva-title](https://github.com/itorr/eva-title)** - Fix known bugs.
-
-🔈 **[YesPlayMusic](https://github.com/qier222/YesPlayMusic)** - feat(lyrics): pronunciation lyric mode.
-
 ✨ && More...
