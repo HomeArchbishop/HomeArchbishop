@@ -8,8 +8,8 @@
 #### ME
 
 * ~~Senior high school student from China~~
-* College students from HUST, China 🇨🇳
-* Loves JavaScript, loves coding, loves new technologies
+* College student from HUST, China 🇨🇳
+* Love JavaScript, love coding, love new technologies
 
 #### **Hope you can get to know me from the following project.**
 
