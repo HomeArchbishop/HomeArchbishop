@@ -17,10 +17,6 @@
 
 🍑 **[picable](https://github.com/HomeArchbishop/picable)** - Beautiful Vue client for Pica Comic. No ads.
 
-😶 **[jump-your-head](https://github.com/HomeArchbishop/jump-your-head)** - Vue3 Virtual sports programs for LittleLights.
-
-🎲 **[YZZX模拟器 (YZZX Simulator)](https://github.com/HomeArchbishop/YZZX)** - A native simple project.
-
 🎬 **[Kaption](https://github.com/HomeArchbishop/kaption)** - A tool to generate captions for videos.
 
 ✈️ **[downgram](https://github.com/HomeArchbishop/downgram)** - A telegram media downloader.
