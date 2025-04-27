@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" alt="Python" />
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square" alt="PHP" />
 <img src="https://img.shields.io/badge/-C%2B%2B-6093c8?style=flat-square" alt="C++" />
-<img src="https://img.shields.io/badge/-Nim-FCC624?style=flat-square" alt="Nim" />
+<img src="https://img.shields.io/badge/-Rust-DEA584?style=flat-square" alt="Rust" />
 <img src="https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat-square" alt="Shell Script" />
 </p>
 <p>
