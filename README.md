@@ -64,5 +64,15 @@
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square" alt="Kubernetes" />
 <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square" alt="Nginx" />
 </p>
+<p>
+<img src="https://img.shields.io/badge/-Miku-39C5BB?style=flat-square" alt="Hatsune Miku" />
+<img src="https://img.shields.io/badge/-Rin%20&%20Len-FFD900?style=flat-square" alt="Kagamine Rin" />
+<img src="https://img.shields.io/badge/-Teto-D94F70?style=flat-square" alt="Kasane Teto" />
+<img src="https://img.shields.io/badge/-Evangelion-7FC7FF?style=flat-square" alt="Evangelion" />
+<img src="https://img.shields.io/badge/-Steins;Gate-B84D57?style=flat-square" alt="Kurisu Makise" />
+<img src="https://img.shields.io/badge/-Misuzu-FFE066?style=flat-square" alt="Misuzu Kamio" />
+<img src="https://img.shields.io/badge/-CLANNAD-AE6B9E?style=flat-square" alt="CLANNAD" />
+<img src="https://img.shields.io/badge/-Ciallo～(∠・ω<)⌒★-FFA726?style=flat-square" alt="except Yuzusoft" />
+</p>
 
 <img alt="HMACBSP's lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homearchbishop&hide_title=true&layout=compact&theme=vue&hide=html,less,vue" />
