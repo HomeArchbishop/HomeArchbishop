@@ -8,7 +8,7 @@
 * ~~Senior high school student from China~~
 * College student from HUST, China 🇨🇳
 * Love coding, love new technologies.
-* Member of **[@BingyanStudio](https://github.com/BingyanStudio)** FE team
+* Member of **[@BingyanStudio<img src="https://avatars.githubusercontent.com/u/8073014?s=96&v=4" width="12px" >](https://github.com/BingyanStudio)** FE team
 
 #### **Hope you know me from the following project.**
 
