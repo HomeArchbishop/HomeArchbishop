@@ -16,7 +16,7 @@
 
 🍎 **[win-dance](https://github.com/HomeArchbishop/win-dance)** - A compiler that allows windows to compose videos. [Bad Apple!]
 
-🍑 **[picable](https://github.com/HomeArchbishop/picable)** - Beautiful Vue client for Pica Comic. No ads.
+🍑 **[picable](https://github.com/HomeArchbishop/picable)** - Beautiful client for Pica Comic. No ads.
 
 🎬 **[Kaption](https://github.com/HomeArchbishop/kaption)** - A tool to generate captions for videos.
 
