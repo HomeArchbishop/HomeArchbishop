@@ -3,6 +3,15 @@
 
 <!-- ![HMACBSP's stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=vue&hide_title=true) -->
 
+<blockquote>
+<details>
+<summary>Click me!</summary>
+<p>
+<a href="https://www.youtube.com/@acetaffych.944" target="_blank"><img src="https://img.shields.io/badge/-Subscribe%20to%20Taffy!%20Arigatou%20Nya~-FF69B4?style=flat-square" alt="Taffy Subscribe" width="100%" /></a>
+</p>
+</details>
+</blockquote>
+
 #### ME
 
 * ~~Senior high school student from China~~
@@ -10,7 +19,7 @@
 * Love coding, love new technologies.
 * Member of **[@BingyanStudio<img src="https://avatars.githubusercontent.com/u/8073014?s=96&v=4" width="12px" >](https://github.com/BingyanStudio)** FE team
 
-#### **Hope you know me from the following project.**
+#### **I code for fun.**
 
 🀄️ **[majsoul-analyser](https://github.com/HomeArchbishop/majsoul-analyser)** - (wip) To build the best & most flexible integrated processer for Japanese mahjong（立直麻将）.
 
@@ -22,8 +31,6 @@
 
 ✈️ **[downgram](https://github.com/HomeArchbishop/downgram)** - A telegram media downloader.
 
-✨ && More...
-
 ---
 
 #### **Tech Stack**
@@ -33,8 +40,7 @@
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square" alt="CSS" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square" alt="JavaScript" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square" alt="TypeScript" />
-<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square" alt="Go" />
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square" alt="Java" />
+<img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square" alt="Golang" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square" alt="Python" />
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square" alt="PHP" />
 <img src="https://img.shields.io/badge/-C%2B%2B-6093c8?style=flat-square" alt="C++" />
@@ -50,8 +56,8 @@
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square" alt="Next.js" />
 <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square" alt="Electron" />
 <img src="https://img.shields.io/badge/-Wails-DB090B?style=flat-square" alt="Wails" />
-</p>
-<p>
+<!-- </p>
+<p> -->
 <img src="https://img.shields.io/badge/-Bun-000000?style=flat-square" alt="Bun" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square" alt="Node.js" />
 <img src="https://img.shields.io/badge/-Express-000000?style=flat-square" alt="Express" />
@@ -74,7 +80,6 @@
 <img src="https://img.shields.io/badge/-CLANNAD-AE6B9E?style=flat-square" alt="CLANNAD" />
 <img src="https://img.shields.io/badge/-Ciallo～(∠・ω<)⌒★-FFA726?style=flat-square" alt="except Yuzusoft" />
 </p>
-
 <p>
 <img alt="HMACBSP's lang" src="https://github-readme-stats-chi-lime-95.vercel.app/api/top-langs/?username=homearchbishop&hide_title=true&layout=compact&theme=vue&hide=html,less,vue" height=135 />
 <img alt="HMACBSP's stat" src="https://github-readme-stats-chi-lime-95.vercel.app/api?username=homearchbishop&hide_title=true&layout=compact&theme=vue" height=135 />
