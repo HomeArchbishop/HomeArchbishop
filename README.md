@@ -1,6 +1,3 @@
-## Hey, nice to see you here! 👋
-
-
 <!-- ![HMACBSP's stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=vue&hide_title=true) -->
 
 <blockquote>
