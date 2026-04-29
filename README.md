@@ -20,6 +20,8 @@
 
 🀄️ **[majsoul-analyser](https://github.com/HomeArchbishop/majsoul-analyser)** - (wip) To build the best & most flexible integrated processer for Japanese mahjong（立直麻将）.
 
+🎮 **[aurorax](https://github.com/HomeArchbishop/aurorax)** - Middleware Pattern Lightweight Onebot 11 Programming Framework for Node.js
+
 🍎 **[win-dance](https://github.com/HomeArchbishop/win-dance)** - A compiler that allows windows to compose videos. [Bad Apple!]
 
 🍑 **[picable](https://github.com/HomeArchbishop/picable)** - Beautiful client for Pica Comic. No ads.
