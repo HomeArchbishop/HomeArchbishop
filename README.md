@@ -80,6 +80,6 @@
 <img src="https://img.shields.io/badge/-Ciallo～(∠・ω<)⌒★-FFA726?style=flat-square" alt="except Yuzusoft" />
 </p>
 <p>
-<img alt="HMACBSP's lang" src="https://github-readme-stats-chi-lime-95.vercel.app/api/top-langs/?username=homearchbishop&hide_title=true&layout=compact&theme=vue&hide=html,less,vue" height=135 />
+<img alt="HMACBSP's lang" src="https://github-readme-stats-chi-lime-95.vercel.app/api/top-langs/?username=homearchbishop&hide_title=true&layout=compact&theme=vue&hide=html,less,vue,jupyter%20notebook" height=135 />
 <img alt="HMACBSP's stat" src="https://github-readme-stats-chi-lime-95.vercel.app/api?username=homearchbishop&hide_title=true&layout=compact&theme=vue" height=135 />
 </p>
