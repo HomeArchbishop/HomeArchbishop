@@ -22,8 +22,6 @@
 
 🍎 **[win-dance](https://github.com/HomeArchbishop/win-dance)** - A compiler that allows windows to compose videos. [Bad Apple!]
 
-🍑 **[picable](https://github.com/HomeArchbishop/picable)** - Beautiful client for Pica Comic. No ads.
-
 🎬 **[Kaption](https://github.com/HomeArchbishop/kaption)** - A tool to generate captions for videos.
 
 ✈️ **[downgram](https://github.com/HomeArchbishop/downgram)** - A telegram media downloader.
@@ -42,6 +40,7 @@
 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square" alt="PHP" />
 <img src="https://img.shields.io/badge/-C%2B%2B-6093c8?style=flat-square" alt="C++" />
 <img src="https://img.shields.io/badge/-Rust-DEA584?style=flat-square" alt="Rust" />
+<img src="https://img.shields.io/badge/-Zig-F7A41D?style=flat-square" alt="Rust" />
 <img src="https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat-square" alt="Shell Script" />
 </p>
 <p>
@@ -55,7 +54,7 @@
 <img src="https://img.shields.io/badge/-Wails-DB090B?style=flat-square" alt="Wails" />
 <!-- </p>
 <p> -->
-<img src="https://img.shields.io/badge/-Bun-000000?style=flat-square" alt="Bun" />
+<!-- <img src="https://img.shields.io/badge/-Bun-000000?style=flat-square" alt="Bun" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square" alt="Node.js" />
 <img src="https://img.shields.io/badge/-Express-000000?style=flat-square" alt="Express" />
 <img src="https://img.shields.io/badge/-Koa-33333D?style=flat-square" alt="Koa" />
@@ -65,7 +64,7 @@
 <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square" alt="Redis" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square" alt="Docker" />
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square" alt="Nginx" />
+<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square" alt="Nginx" /> -->
 </p>
 <p>
 <img src="https://img.shields.io/badge/-Miku-39C5BB?style=flat-square" alt="Hatsune Miku" />
